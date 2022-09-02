@@ -8,7 +8,7 @@
 
 - 📆 Created - 2022-02-09
 
-- Technologies Used - Html , Css , js
+- 🤖 Technologies Used - Html , Css , js
 
 - Role - Frontend
 
