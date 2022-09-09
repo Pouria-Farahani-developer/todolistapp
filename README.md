@@ -4,7 +4,7 @@
 
 ![preview of project](https://user-images.githubusercontent.com/109727844/188115722-bda64873-e3ff-48b5-a814-7d7d2cc65234.jpg)
 
-- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/game-lego-/)
+- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/todolistapp/)
 
 - 👨‍💻 developed by pouria farahani
 
